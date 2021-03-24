@@ -1,0 +1,35 @@
+_repo: The-Painted-Veil_64682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, William Somerset
+    - Maugham, Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: https://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: ''
+gutenberg_issued: '2021-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bacteriologists -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Cholera -- Fiction'
+- !lcsh 'British -- China -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'China -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Painted Veil
+url: http://www.gutenberg.org/ebooks/64682
